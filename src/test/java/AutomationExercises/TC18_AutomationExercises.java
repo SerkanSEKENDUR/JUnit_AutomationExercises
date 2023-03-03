@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import utilities.TestBase;
 
-public class C18AutomationExercises extends TestBase {
+public class TC18_AutomationExercises extends TestBase {
     @Test
     public void test1() {
 

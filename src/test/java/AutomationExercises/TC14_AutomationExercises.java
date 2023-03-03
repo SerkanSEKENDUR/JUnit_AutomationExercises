@@ -11,10 +11,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.awt.*;
-import java.awt.event.KeyEvent;
 import java.time.Duration;
 
-public class C14AutomationExercises {
+public class TC14_AutomationExercises {
     WebDriver driver;
 
     @Before

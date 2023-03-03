@@ -8,12 +8,11 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import utilities.TestBase;
 
-import java.awt.event.KeyEvent;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
 
-public class C23AutomationExercises extends TestBase {
+public class TC23_AutomationExercises extends TestBase {
     @Test
     public void test1() {
         //2. Navigate to url 'http://automationexercise.com'

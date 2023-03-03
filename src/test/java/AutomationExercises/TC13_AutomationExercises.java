@@ -13,7 +13,7 @@ import java.awt.*;
 import java.awt.event.KeyEvent;
 import java.time.Duration;
 
-public class C13AutomationExercises {
+public class TC13_AutomationExercises {
     WebDriver driver;
 
     @Before

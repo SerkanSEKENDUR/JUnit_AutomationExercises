@@ -8,7 +8,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import utilities.TestBase;
 
-public class C22AutomationExercises extends TestBase {
+public class TC22_AutomationExercises extends TestBase {
     @Test
     public void test1() {
 

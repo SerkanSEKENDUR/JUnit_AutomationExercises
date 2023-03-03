@@ -12,7 +12,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.awt.*;
 import java.time.Duration;
 
-public class C12AutomationExercises {
+public class TC12_AutomationExercises {
     WebDriver driver;
 
     @Before

@@ -11,7 +11,7 @@ import utilities.TestBase;
 import java.awt.*;
 import java.util.List;
 
-public class C20AutomationExercises extends TestBase {
+public class TC20_AutomationExercises extends TestBase {
     @Test
     public void test1() throws AWTException, InterruptedException {
 

@@ -10,10 +10,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.awt.*;
-import java.awt.event.KeyEvent;
 import java.time.Duration;
 
-public class C15AutomationExercises {
+public class TC15_AutomationExercises {
     WebDriver driver;
 
     @Before

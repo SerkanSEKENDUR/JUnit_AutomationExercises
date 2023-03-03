@@ -8,9 +8,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import utilities.TestBase;
 
-import java.awt.*;
-
-public class C17AutomationExercises extends TestBase {
+public class TC17_AutomationExercises extends TestBase {
     @Test
     public void test1() throws InterruptedException {
 

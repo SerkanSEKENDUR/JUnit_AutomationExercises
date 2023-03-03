@@ -12,7 +12,7 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 
-public class C24AutomationExercises extends TestBase {
+public class TC24_AutomationExercises extends TestBase {
     @Test
     public void test1() throws AWTException, IOException, InterruptedException {
 

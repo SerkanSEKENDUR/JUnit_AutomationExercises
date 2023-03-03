@@ -8,9 +8,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import utilities.TestBase;
 
-import java.awt.*;
-
-public class C21AutomationExercises extends TestBase {
+public class TC21_AutomationExercises extends TestBase {
     @Test
     public void test1() {
 

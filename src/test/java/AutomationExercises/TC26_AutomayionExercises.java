@@ -13,7 +13,7 @@ import java.awt.*;
 import java.awt.event.KeyEvent;
 import java.time.Duration;
 
-public class C26AutomayionExercises {
+public class TC26_AutomayionExercises {
     /*
        1. Launch browser
        2. Navigate to url 'http://automationexercise.com'
